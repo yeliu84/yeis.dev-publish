@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hidden Polymorphism</title>
+    <title>Coding in the Furnace Room</title>
     <link>https://yeis.dev/</link>
-    <description>Recent content on Hidden Polymorphism</description>
+    <description>Recent content on Coding in the Furnace Room</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2019 Ye Liu</copyright>
@@ -50,7 +50,7 @@ I will need some time to figure out a better use of those domains, but for the t
       <guid>https://yeis.dev/about/</guid>
       <description>Hi there, I am Ye Liu.
 I am a software developer, who
- cannot live without Mac, Linux, and Vim, speaks JavaScript, Elm, Go, Elixir, Python and C, is passionate about web and mobile development, is crazy about things that are invisible but powerful.  I can also be found on GitHub, StackOverflow and Twitter.</description>
+ cannot live without Mac, Linux, and Vim, speaks JavaScript, Dart, Elm, Go, Elixir, Python and C, is passionate about web, mobile and cross-platform development, is crazy about things that are invisible but powerful.  I can also be found on GitHub, StackOverflow and Twitter.</description>
     </item>
     
   </channel>
