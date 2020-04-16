@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hidden Polymorphism</title>
+    <link>https://yeis.dev/categories/</link>
+    <description>Recent content in Categories on Hidden Polymorphism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2015-2019 Ye Liu</copyright>
+    
+	<atom:link href="https://yeis.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hidden Polymorphism</title>
+    <link>https://yeis.dev/posts/</link>
+    <description>Recent content in Posts on Hidden Polymorphism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2015-2019 Ye Liu</copyright>
+    <lastBuildDate>Fri, 08 Mar 2019 14:04:44 -0500</lastBuildDate>
+    
+	<atom:link href="https://yeis.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Start Learning Emacs</title>
+      <link>https://yeis.dev/posts/start-learning-emacs/</link>
+      <pubDate>Fri, 08 Mar 2019 14:04:44 -0500</pubDate>
+      
+      <guid>https://yeis.dev/posts/start-learning-emacs/</guid>
+      <description>March 7th, 2019.
+I need to mark this date because on that day I decided to seriously learn Emacs and switch to it as my primary text editor after my 12 years Vim journey.
+Why? Because currently I am working on the new design of Gemsby and I have chosen to use TypeScript for the work. Unfortunately, TypeScript support in Vim is very weak at this moment, I need to spend a lot of time to fight my text editor which I would rather not to do.</description>
+    </item>
+    
+    <item>
+      <title>New Dev Domains</title>
+      <link>https://yeis.dev/posts/new-dev-domains/</link>
+      <pubDate>Mon, 04 Mar 2019 00:14:45 -0500</pubDate>
+      
+      <guid>https://yeis.dev/posts/new-dev-domains/</guid>
+      <description>Google opened its .dev domains for anyone to purchase without the early access fee a few days ago. Every developer should grab a .dev domain to showcase their great creations and works in my opinion, so I have grabbed TWO for myself 😁.
+I will need some time to figure out a better use of those domains, but for the time being, my shiny new domains, yeliu.dev and liuye.dev, will be redirect to here.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://yeis.dev/posts/hello-world/</link>
+      <pubDate>Fri, 24 Jul 2015 00:51:28 -0400</pubDate>
+      
+      <guid>https://yeis.dev/posts/hello-world/</guid>
+      <description>This is where it all begins&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

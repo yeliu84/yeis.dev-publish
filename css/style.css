@@ -1,0 +1,10 @@
+@media (min-width: 700px) {
+    img.avatar {
+        float: right;
+    }
+}
+
+footer .list {
+    display: inline-block;
+    margin-left: 10px;
+}
