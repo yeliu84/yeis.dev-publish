@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yeis.dev/messages/matrix-3/</loc>
+    <lastmod>2020-05-09T03:00:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yeis.dev/messages/</loc>
+    <lastmod>2020-05-09T03:00:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yeis.dev/messages/rewatch-matrix/</loc>
+    <lastmod>2020-05-09T02:31:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yeis.dev/tags/dev/</loc>
+    <lastmod>2019-03-08T14:04:44-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yeis.dev/posts/</loc>
     <lastmod>2019-03-08T14:04:44-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://yeis.dev/posts/start-learning-emacs/</loc>
+    <lastmod>2019-03-08T14:04:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yeis.dev/tags/</loc>
+    <lastmod>2019-03-08T14:04:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yeis.dev/tags/vim/</loc>
     <lastmod>2019-03-08T14:04:44-05:00</lastmod>
   </url>
   
@@ -34,10 +64,6 @@
   
   <url>
     <loc>https://yeis.dev/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yeis.dev/tags/</loc>
   </url>
   
 </urlset>

@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Coding in the Furnace Room</title>
+    <title>Tags on yeis.dev</title>
     <link>https://yeis.dev/tags/</link>
-    <description>Recent content in Tags on Coding in the Furnace Room</description>
+    <description>Recent content in Tags on yeis.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2015-2019 Ye Liu</copyright>
+    <copyright>2015-2020 Ye Liu</copyright>
+    <lastBuildDate>Fri, 08 Mar 2019 14:04:44 -0500</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dev</title>
+      <link>https://yeis.dev/tags/dev/</link>
+      <pubDate>Fri, 08 Mar 2019 14:04:44 -0500</pubDate>
+      
+      <guid>https://yeis.dev/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://yeis.dev/tags/vim/</link>
+      <pubDate>Fri, 08 Mar 2019 14:04:44 -0500</pubDate>
+      
+      <guid>https://yeis.dev/tags/vim/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
