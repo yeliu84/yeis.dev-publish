@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Messages on yeis.dev</title>
+    <link>https://yeis.dev/messages/</link>
+    <description>Recent content in Messages on yeis.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2015-2020 Ye Liu</copyright>
+    <lastBuildDate>Sat, 09 May 2020 03:00:13 -0400</lastBuildDate>
+    
+	<atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/matrix-3/</link>
+      <pubDate>Sat, 09 May 2020 03:00:13 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/matrix-3/</guid>
+      <description>I didn&amp;rsquo;t have too much memory of The Matrix Revolutions, and I didn&amp;rsquo;t expect it to be very good before re-watching it. But, man, I&amp;rsquo;ve enjoyed it a lot, it IS good!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/rewatch-matrix/</link>
+      <pubDate>Sat, 09 May 2020 02:31:44 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/rewatch-matrix/</guid>
+      <description>Matrix movie series are so fun to (re)watch!</description>
+    </item>
+    
+  </channel>
+</rss>
