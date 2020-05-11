@@ -14,6 +14,15 @@
     
     <item>
       <title></title>
+      <link>https://yeis.dev/messages/second-guessing-modern-web/</link>
+      <pubDate>Mon, 11 May 2020 02:52:41 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/second-guessing-modern-web/</guid>
+      <description>Just read Second-guessing the modern web. It&amp;rsquo;s a well written article on the current trend of building static content site with React SPA. I agree with it, that&amp;rsquo;s why this very site is still built with Hugo despite my familiarity with React and the recent hype of Gatsby.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://yeis.dev/messages/new-design/</link>
       <pubDate>Sun, 10 May 2020 00:51:22 -0400</pubDate>
       

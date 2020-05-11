@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2020 Ye Liu</copyright>
-    <lastBuildDate>Sun, 10 May 2020 00:51:22 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 02:52:41 -0400</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/second-guessing-modern-web/</link>
+      <pubDate>Mon, 11 May 2020 02:52:41 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/second-guessing-modern-web/</guid>
+      <description>Just read Second-guessing the modern web. It&amp;rsquo;s a well written article on the current trend of building static content site with React SPA. I agree with it, that&amp;rsquo;s why this very site is still built with Hugo despite my familiarity with React and the recent hype of Gatsby.</description>
+    </item>
     
     <item>
       <title></title>

@@ -11,3 +11,11 @@ article ol {
 .plain-page h1 {
   font-size: 2rem;
 }
+
+.message-list-item p {
+  margin: 0.5rem 0;
+}
+
+.home-message p {
+  margin: 0 0 0.75rem 0;
+}
