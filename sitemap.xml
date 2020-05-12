@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yeis.dev/messages/second-guessing-modern-web/</loc>
-    <lastmod>2020-05-11T02:52:41-04:00</lastmod>
+    <loc>https://yeis.dev/messages/the-last-dance/</loc>
+    <lastmod>2020-05-12T02:17:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://yeis.dev/messages/</loc>
+    <lastmod>2020-05-12T02:17:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yeis.dev/messages/second-guessing-modern-web/</loc>
     <lastmod>2020-05-11T02:52:41-04:00</lastmod>
   </url>
   
