@@ -14,6 +14,15 @@
     
     <item>
       <title></title>
+      <link>https://yeis.dev/messages/use-hugo-as-notes-app/</link>
+      <pubDate>Thu, 21 May 2020 10:20:18 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/use-hugo-as-notes-app/</guid>
+      <description>It seems there is a rising demand of a notes taking app to write in markdown and save the notes as markdown text files. That sounds just like what hugo does. I&amp;rsquo;ll try to use hugo for that purpose, and see how it goes.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://yeis.dev/messages/wrap-to-column-plugin/</link>
       <pubDate>Wed, 20 May 2020 13:42:21 -0400</pubDate>
       
