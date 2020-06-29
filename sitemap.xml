@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yeis.dev/messages/apple-silicon/</loc>
-    <lastmod>2020-06-22T14:28:47-04:00</lastmod>
+    <loc>https://yeis.dev/messages/space-force/</loc>
+    <lastmod>2020-06-29T11:20:09-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://yeis.dev/messages/</loc>
+    <lastmod>2020-06-29T11:20:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yeis.dev/messages/apple-silicon/</loc>
     <lastmod>2020-06-22T14:28:47-04:00</lastmod>
   </url>
   
