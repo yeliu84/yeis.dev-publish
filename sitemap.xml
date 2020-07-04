@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yeis.dev/messages/space-force/</loc>
-    <lastmod>2020-06-29T11:20:09-04:00</lastmod>
+    <loc>https://yeis.dev/messages/svelte-chat-app/</loc>
+    <lastmod>2020-07-04T14:14:04-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://yeis.dev/messages/</loc>
+    <lastmod>2020-07-04T14:14:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yeis.dev/</loc>
+    <lastmod>2020-07-04T14:14:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yeis.dev/messages/space-force/</loc>
     <lastmod>2020-06-29T11:20:09-04:00</lastmod>
   </url>
   
@@ -129,11 +139,6 @@
   
   <url>
     <loc>https://yeis.dev/about/</loc>
-    <lastmod>2015-07-06T23:42:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yeis.dev/</loc>
     <lastmod>2015-07-06T23:42:24-04:00</lastmod>
   </url>
   
