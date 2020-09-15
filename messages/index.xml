@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2020 Ye Liu</copyright>
-    <lastBuildDate>Tue, 08 Sep 2020 15:22:06 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 02:14:48 -0400</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/preonic-keyboard/</link>
+      <pubDate>Tue, 15 Sep 2020 02:14:48 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/preonic-keyboard/</guid>
+      <description>Writing this message on the Preonic, I have to admit that learning a new keyboard layout is hard and no fun.</description>
+    </item>
     
     <item>
       <title></title>
