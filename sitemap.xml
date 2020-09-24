@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yeis.dev/messages/preonic-keyboard/</loc>
-    <lastmod>2020-09-15T02:14:48-04:00</lastmod>
+    <loc>https://yeis.dev/messages/fully-on-preonic/</loc>
+    <lastmod>2020-09-23T23:06:19-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://yeis.dev/messages/</loc>
-    <lastmod>2020-09-15T02:14:48-04:00</lastmod>
+    <lastmod>2020-09-23T23:06:19-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://yeis.dev/</loc>
+    <lastmod>2020-09-23T23:06:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yeis.dev/messages/preonic-keyboard/</loc>
     <lastmod>2020-09-15T02:14:48-04:00</lastmod>
   </url>
   
