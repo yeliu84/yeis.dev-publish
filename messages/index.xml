@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2020 Ye Liu</copyright>
-    <lastBuildDate>Thu, 22 Oct 2020 02:17:27 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2020 02:20:08 -0400</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/pour-over/</link>
+      <pubDate>Sun, 25 Oct 2020 02:20:08 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/pour-over/</guid>
+      <description>Learning pour over now!</description>
+    </item>
     
     <item>
       <title></title>
