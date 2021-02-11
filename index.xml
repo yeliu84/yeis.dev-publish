@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2020 Ye Liu</copyright>
-    <lastBuildDate>Tue, 02 Feb 2021 14:05:23 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 11 Feb 2021 09:58:14 -0500</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/esbuild-so-good/</link>
+      <pubDate>Thu, 11 Feb 2021 09:58:14 -0500</pubDate>
+      
+      <guid>https://yeis.dev/messages/esbuild-so-good/</guid>
+      <description>Recently tried esbuild, my experience with it is very positive, it&amp;rsquo;s so much faster and easier to use than webpack.</description>
+    </item>
     
     <item>
       <title></title>
