@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2020 Ye Liu</copyright>
-    <lastBuildDate>Thu, 25 Feb 2021 21:46:52 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 12:42:14 -0400</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/g903-double-click/</link>
+      <pubDate>Mon, 05 Apr 2021 12:42:14 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/g903-double-click/</guid>
+      <description>The double clicking issue on my G903 has became unbearable, it&amp;rsquo;s time to open it up, pull my soldering iron out, and change the switches!</description>
+    </item>
     
     <item>
       <title></title>
