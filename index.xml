@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2020 Ye Liu</copyright>
-    <lastBuildDate>Tue, 06 Apr 2021 10:26:44 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Apr 2021 15:21:01 -0400</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/relay-aha-moment/</link>
+      <pubDate>Fri, 16 Apr 2021 15:21:01 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/relay-aha-moment/</guid>
+      <description>Got my first &amp;ldquo;Aha!&amp;rdquo; moment with Relay after staring at it for a few weeks.</description>
+    </item>
     
     <item>
       <title></title>
