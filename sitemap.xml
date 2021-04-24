@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yeis.dev/messages/relay-aha-moment/</loc>
-    <lastmod>2021-04-16T15:21:01-04:00</lastmod>
+    <loc>https://yeis.dev/messages/change-micro-switch/</loc>
+    <lastmod>2021-04-24T03:48:54-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://yeis.dev/messages/</loc>
-    <lastmod>2021-04-16T15:21:01-04:00</lastmod>
+    <lastmod>2021-04-24T03:48:54-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://yeis.dev/</loc>
+    <lastmod>2021-04-24T03:48:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yeis.dev/messages/relay-aha-moment/</loc>
     <lastmod>2021-04-16T15:21:01-04:00</lastmod>
   </url>
   

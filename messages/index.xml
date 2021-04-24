@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2020 Ye Liu</copyright>
-    <lastBuildDate>Fri, 16 Apr 2021 15:21:01 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 24 Apr 2021 03:48:54 -0400</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/change-micro-switch/</link>
+      <pubDate>Sat, 24 Apr 2021 03:48:54 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/change-micro-switch/</guid>
+      <description>My Logitech G903 has had the double-click issue for awhile, today I finally pulled out my solder iron and changed the micro switch!</description>
+    </item>
     
     <item>
       <title></title>
