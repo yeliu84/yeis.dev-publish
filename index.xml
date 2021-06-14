@@ -23,6 +23,17 @@
     
     <item>
       <title></title>
+      <link>https://yeis.dev/messages/spoiled-by-ide/</link>
+      <pubDate>Tue, 18 May 2021 10:34:26 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/spoiled-by-ide/</guid>
+      <description>I&amp;rsquo;ve switched to JetBrains IDEs two years ago as a life-long vimer and thought I would never forget how to develop in vanilla vim. However, yesterday when I fired up the unconfigured vim to write a small dart program, I couldn&amp;rsquo;t. I felt it was so hard to type without auto-completion and I wanted to use an IDE or vscode.
+That scared me.
+I need to jump out my comfortable zone and practice my programming skill more without the help from the tools.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://yeis.dev/messages/change-micro-switch/</link>
       <pubDate>Sat, 24 Apr 2021 03:48:54 -0400</pubDate>
       
