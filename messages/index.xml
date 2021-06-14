@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2020 Ye Liu</copyright>
-    <lastBuildDate>Sat, 24 Apr 2021 03:48:54 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 09:14:15 -0400</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/relay-like-flux/</link>
+      <pubDate>Mon, 14 Jun 2021 09:14:15 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/relay-like-flux/</guid>
+      <description>I feel Relay at this moment is like Flux in the early days of React. It&amp;rsquo;s powerful and shows the abilities of GraphQL; but, it&amp;rsquo;s not very easy to understand and use, the learning curve is steep. You have to go through quite a few hurdles before you can enjoy the benefits that Relay brings to the table.</description>
+    </item>
     
     <item>
       <title></title>
