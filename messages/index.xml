@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2020 Ye Liu</copyright>
-    <lastBuildDate>Sun, 04 Jul 2021 04:00:38 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 10:29:57 -0400</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/bundlephobia/</link>
+      <pubDate>Thu, 08 Jul 2021 10:29:57 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/bundlephobia/</guid>
+      <description>Just discovered a very useful tool bundlephobia. It&amp;rsquo;s a package analyzer to show the composition of the package so you know clearly what you&amp;rsquo;re actually paying for when bringing in a dependency.</description>
+    </item>
     
     <item>
       <title></title>
