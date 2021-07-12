@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2020 Ye Liu</copyright>
-    <lastBuildDate>Thu, 08 Jul 2021 10:29:57 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 14:05:54 -0400</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/dyson-v10-moisture-sensor/</link>
+      <pubDate>Mon, 12 Jul 2021 14:05:54 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/dyson-v10-moisture-sensor/</guid>
+      <description>There is a moisture sensor inside Dynson v10 (other models probably have it as well) to protect the motor from minor water damage. If you accidentally put a wet filter on and the vacuum refuses to work afterwards, don&amp;rsquo;t panic and don&amp;rsquo;t throw it away just yet, leave it and let it dry for 2 - 3 days, there is a good chance it will come back to life again.</description>
+    </item>
     
     <item>
       <title></title>
