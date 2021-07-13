@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2020 Ye Liu</copyright>
-    <lastBuildDate>Mon, 12 Jul 2021 14:05:54 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jul 2021 18:21:31 -0400</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/got-github-copilot/</link>
+      <pubDate>Tue, 13 Jul 2021 18:21:31 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/got-github-copilot/</guid>
+      <description>I just got the invite to GitHub Copilot, but the issue preventing me from using vscode as my main editor is still there not fixed after a few years&amp;hellip;</description>
+    </item>
     
     <item>
       <title></title>
