@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2020 Ye Liu</copyright>
-    <lastBuildDate>Thu, 22 Jul 2021 02:41:22 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jul 2021 15:54:40 -0400</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/quote-great-minds/</link>
+      <pubDate>Fri, 23 Jul 2021 15:54:40 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/quote-great-minds/</guid>
+      <description>Great minds discuss ideas; average minds discuss events; small minds dicuss people. &amp;ndash; Eleanor Roosevelt</description>
+    </item>
     
     <item>
       <title></title>
