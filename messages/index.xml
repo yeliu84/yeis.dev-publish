@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2021 Ye Liu</copyright>
-    <lastBuildDate>Tue, 11 Jan 2022 14:08:30 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 10 Feb 2022 15:15:03 -0500</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/covid-hit/</link>
+      <pubDate>Thu, 10 Feb 2022 15:15:03 -0500</pubDate>
+      
+      <guid>https://yeis.dev/messages/covid-hit/</guid>
+      <description>The whole family was hit by COVID-19 last week. It was not terrible, we all had mild symptoms. And, we are recovered now! Woohoo!</description>
+    </item>
     
     <item>
       <title></title>
