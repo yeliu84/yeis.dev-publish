@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2021 Ye Liu</copyright>
-    <lastBuildDate>Thu, 10 Feb 2022 15:15:03 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jun 2022 15:32:57 -0400</lastBuildDate>
     
 	<atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/microsoft-to-be-microsoft/</link>
+      <pubDate>Tue, 21 Jun 2022 15:32:57 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/microsoft-to-be-microsoft/</guid>
+      <description>GH Copilot turned to subscription and VSCode&amp;rsquo;s C# extension closed source. Microsoft starts to be Microsoft, again.</description>
+    </item>
     
     <item>
       <title></title>
