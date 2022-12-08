@@ -1,404 +1,247 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://yeis.dev/messages/new-hackintosh/</loc>
+    <lastmod>2022-12-08T13:09:00-05:00</lastmod>
+  </url><url>
+    <loc>https://yeis.dev/messages/</loc>
+    <lastmod>2022-12-08T13:09:00-05:00</lastmod>
+  </url><url>
+    <loc>https://yeis.dev/</loc>
+    <lastmod>2022-12-08T13:09:00-05:00</lastmod>
+  </url><url>
     <loc>https://yeis.dev/messages/advil-shortage/</loc>
     <lastmod>2022-11-16T15:41:11-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yeis.dev/messages/</loc>
-    <lastmod>2022-11-16T15:41:11-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yeis.dev/</loc>
-    <lastmod>2022-11-16T15:41:11-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/into-video-audio/</loc>
     <lastmod>2022-08-23T02:41:21-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/microsoft-to-be-microsoft/</loc>
     <lastmod>2022-06-21T15:32:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/covid-hit/</loc>
     <lastmod>2022-02-10T15:15:03-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/cf-email-forwarding/</loc>
     <lastmod>2022-01-11T14:08:30-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/marvel-champions-not-easy/</loc>
     <lastmod>2021-11-09T18:14:43-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/copilot-jetbrains/</loc>
     <lastmod>2021-10-28T11:48:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/onivim2-dev-stale/</loc>
     <lastmod>2021-09-15T09:44:06-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/wingspan-100-points/</loc>
     <lastmod>2021-07-31T02:46:56-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/big-fin-gone/</loc>
     <lastmod>2021-07-27T01:23:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/wingspan/</loc>
     <lastmod>2021-07-24T03:48:19-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/quote-great-minds/</loc>
     <lastmod>2021-07-23T15:54:40-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/new-space-jam/</loc>
     <lastmod>2021-07-22T02:41:22-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/bucks-champion/</loc>
     <lastmod>2021-07-21T01:17:24-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/polywork/</loc>
     <lastmod>2021-07-19T18:28:26-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/onward-movie/</loc>
     <lastmod>2021-07-19T16:37:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/got-github-copilot/</loc>
     <lastmod>2021-07-13T18:21:31-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/dyson-v10-moisture-sensor/</loc>
     <lastmod>2021-07-12T14:05:54-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/bundlephobia/</loc>
     <lastmod>2021-07-08T10:29:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/root-boardgame/</loc>
     <lastmod>2021-07-04T04:00:38-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/prosemirror/</loc>
     <lastmod>2021-07-02T17:21:38-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/relay-like-flux/</loc>
     <lastmod>2021-06-14T09:14:15-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/spoiled-by-ide/</loc>
     <lastmod>2021-05-18T10:34:26-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/change-micro-switch/</loc>
     <lastmod>2021-04-24T03:48:54-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/relay-aha-moment/</loc>
     <lastmod>2021-04-16T15:21:01-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/tokyo60/</loc>
     <lastmod>2021-04-06T10:26:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/g903-double-click/</loc>
     <lastmod>2021-04-05T12:42:14-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/star-wars-films/</loc>
     <lastmod>2021-02-25T21:46:52-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/esbuild-so-good/</loc>
     <lastmod>2021-02-11T09:58:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/m1-macbook-pro/</loc>
     <lastmod>2021-02-02T14:05:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/missed-goal/</loc>
     <lastmod>2020-12-13T01:59:51-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/coffee-dripper-comparison/</loc>
     <lastmod>2020-12-09T01:34:29-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/kinu-m47-classic/</loc>
     <lastmod>2020-12-08T01:07:11-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/flutter-dart/</loc>
     <lastmod>2020-12-01T11:59:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/remarkable2/</loc>
     <lastmod>2020-12-01T11:04:41-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/too-much-coffee-too-much-money/</loc>
     <lastmod>2020-11-30T22:37:40-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/pour-over/</loc>
     <lastmod>2020-10-25T02:20:08-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/brewing-coffee-hobby/</loc>
     <lastmod>2020-10-22T02:17:27-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/shame-finding-job/</loc>
     <lastmod>2020-10-20T02:44:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/switch-ortholinear-staggered/</loc>
     <lastmod>2020-10-20T02:21:48-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/github-codespaces/</loc>
     <lastmod>2020-10-14T14:12:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/fully-on-preonic/</loc>
     <lastmod>2020-09-23T23:06:19-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/preonic-keyboard/</loc>
     <lastmod>2020-09-15T02:14:48-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/disk-died-lost-weekend/</loc>
     <lastmod>2020-09-08T15:22:06-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/raptors-og-game-winner/</loc>
     <lastmod>2020-09-04T02:17:54-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/harry-potter-movies/</loc>
     <lastmod>2020-08-31T18:04:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/good-keycaps/</loc>
     <lastmod>2020-08-24T16:44:35-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/stock-technical-analysis/</loc>
     <lastmod>2020-08-23T22:56:53-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/5am-club/</loc>
     <lastmod>2020-08-20T08:20:46-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/nba-restart/</loc>
     <lastmod>2020-07-31T14:20:49-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/crysis-remastered-switch/</loc>
     <lastmod>2020-07-29T03:34:22-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/svelte-chat-app/</loc>
     <lastmod>2020-07-04T14:14:04-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/space-force/</loc>
     <lastmod>2020-06-29T11:20:09-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/apple-silicon/</loc>
     <lastmod>2020-06-22T14:28:47-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/wireguard-pi4/</loc>
     <lastmod>2020-06-13T04:07:03-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/kindle-2nd-gen/</loc>
     <lastmod>2020-06-08T14:17:56-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/westworld-this-world/</loc>
     <lastmod>2020-06-03T03:07:56-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/learn-svelte/</loc>
     <lastmod>2020-06-01T11:40:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/tailwind-job/</loc>
     <lastmod>2020-05-28T02:18:04-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/use-hugo-as-notes-app/</loc>
     <lastmod>2020-05-21T10:20:18-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/wrap-to-column-plugin/</loc>
     <lastmod>2020-05-20T13:42:21-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/trying-deno/</loc>
     <lastmod>2020-05-20T02:21:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/tax-return-done-2020/</loc>
     <lastmod>2020-05-18T23:34:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/hell-of-week-gout-broken-arm/</loc>
     <lastmod>2020-05-18T03:25:10-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/the-last-dance/</loc>
     <lastmod>2020-05-12T02:17:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/second-guessing-modern-web/</loc>
     <lastmod>2020-05-11T02:52:41-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/new-design/</loc>
     <lastmod>2020-05-10T00:51:22-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/matrix-3/</loc>
     <lastmod>2020-05-09T03:00:13-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/messages/rewatch-matrix/</loc>
     <lastmod>2020-05-09T02:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/tags/dev/</loc>
     <lastmod>2019-03-08T14:04:44-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/posts/</loc>
     <lastmod>2019-03-08T14:04:44-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/posts/start-learning-emacs/</loc>
     <lastmod>2019-03-08T14:04:44-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/tags/</loc>
     <lastmod>2019-03-08T14:04:44-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/tags/vim/</loc>
     <lastmod>2019-03-08T14:04:44-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/posts/new-dev-domains/</loc>
     <lastmod>2019-03-04T00:14:45-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/posts/hello-world/</loc>
     <lastmod>2015-07-24T00:51:28-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/about/</loc>
     <lastmod>2015-07-06T23:42:24-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yeis.dev/categories/</loc>
   </url>
-  
 </urlset>
