@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2023 Ye Liu</copyright>
-    <lastBuildDate>Fri, 23 Jun 2023 10:34:05 -0400</lastBuildDate><atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jul 2023 03:03:23 -0400</lastBuildDate><atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/learn-svelte/</link>
+      <pubDate>Wed, 05 Jul 2023 03:03:23 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/learn-svelte/</guid>
+      <description>I&amp;rsquo;ve started to learn Svelte today. I had battled to choose which one to learn between Svelte and Vue for quite a long time. Since it&amp;rsquo;s very different from current generation of frontend frameworks like React, Angular, and I want to learn something new, I finally decided to go with Svelte.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/tax-done-2023/</link>
