@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2015-2023 Ye Liu</copyright>
-    <lastBuildDate>Wed, 05 Jul 2023 03:03:23 -0400</lastBuildDate><atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jul 2023 00:16:47 -0400</lastBuildDate><atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/fixed-hhkb-ble/</link>
+      <pubDate>Wed, 12 Jul 2023 00:16:47 -0400</pubDate>
+      
+      <guid>https://yeis.dev/messages/fixed-hhkb-ble/</guid>
+      <description>I have finally fixed my HHKB BLE bluetooth connection issue tonight.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/learn-svelte-again/</link>
