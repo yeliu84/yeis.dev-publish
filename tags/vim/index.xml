@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vim on yeis.dev</title>
+    <title>Vim on yeis.dev</title>
     <link>https://yeis.dev/tags/vim/</link>
-    <description>Recent content in vim on yeis.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Vim on yeis.dev</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2015-2023 Ye Liu</copyright>
-    <lastBuildDate>Fri, 08 Mar 2019 14:04:44 -0500</lastBuildDate><atom:link href="https://yeis.dev/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Mar 2019 14:04:44 -0500</lastBuildDate>
+    <atom:link href="https://yeis.dev/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Start Learning Emacs</title>
       <link>https://yeis.dev/posts/start-learning-emacs/</link>
       <pubDate>Fri, 08 Mar 2019 14:04:44 -0500</pubDate>
-      
       <guid>https://yeis.dev/posts/start-learning-emacs/</guid>
-      <description>March 7th, 2019.
-I need to mark this date because on that day I decided to seriously learn Emacs and switch to it as my primary text editor after my 12 years Vim journey.
-Why? Because currently I am working on the new design of Gemsby and I have chosen to use TypeScript for the work. Unfortunately, TypeScript support in Vim is very weak at this moment, I need to spend a lot of time to fight my text editor which I would rather not to do.</description>
+      <description>March 7th, 2019.&#xA;I need to mark this date because on that day I decided to seriously learn Emacs and switch to it as my primary text editor after my 12 years Vim journey.&#xA;Why? Because currently I am working on the new design of Gemsby and I have chosen to use TypeScript for the work. Unfortunately, TypeScript support in Vim is very weak at this moment, I need to spend a lot of time to fight my text editor which I would rather not to do.</description>
     </item>
-    
   </channel>
 </rss>

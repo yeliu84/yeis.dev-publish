@@ -4,777 +4,605 @@
     <title>yeis.dev</title>
     <link>https://yeis.dev/</link>
     <description>Recent content on yeis.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2015-2023 Ye Liu</copyright>
-    <lastBuildDate>Tue, 25 Jun 2024 15:51:14 -0400</lastBuildDate><atom:link href="https://yeis.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jun 2024 16:11:35 -0400</lastBuildDate>
+    <atom:link href="https://yeis.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/swim-team/</link>
+      <pubDate>Tue, 25 Jun 2024 16:11:35 -0400</pubDate>
+      <guid>https://yeis.dev/messages/swim-team/</guid>
+      <description>My older kid joined the swim team last fall and the younger one joined in spring. Now both of them can swim way faster than me. I&amp;rsquo;m very proud of them!</description>
+    </item>
     <item>
       <title></title>
       <link>https://yeis.dev/messages/new-house-keeps-me-busy/</link>
       <pubDate>Tue, 25 Jun 2024 15:51:14 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/new-house-keeps-me-busy/</guid>
-      <description>Haven&amp;rsquo;t updated for quite a while.
-We purchased a new house after my last message, and I renovated it all by myself. It took a lot of time and effort, but it was worth it because the result is amazing, better than the previous renovations we&amp;rsquo;ve handed to contractors. I&amp;rsquo;m very proud of it.
-The new house comes with a swimming pool, so I have to learn how to maintain it.</description>
+      <description>Haven&amp;rsquo;t updated for quite a while.&#xA;We purchased a new house after my last message, and I renovated it all by myself. It took a lot of time and effort, but it was worth it because the result is amazing, better than the previous renovations we&amp;rsquo;ve handed to contractors. I&amp;rsquo;m very proud of it.&#xA;The new house comes with a swimming pool, so I have to learn how to maintain it.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/book-self-driven-child/</link>
       <pubDate>Fri, 01 Sep 2023 12:07:06 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/book-self-driven-child/</guid>
       <description>Just finished listening to the book, The Self-Driven Child. It has so many good information and tips on how to be a better parent. I definitely recommend it to anyone who has kids or is planning to have kids.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/logitech-pro-x-mouse-micro-usb/</link>
       <pubDate>Sat, 15 Jul 2023 21:23:00 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/logitech-pro-x-mouse-micro-usb/</guid>
       <description>The Logitech Pro X mouse arrived yesterday, and I&amp;rsquo;m surprised it&amp;rsquo;s using micro USB! I got it&amp;rsquo;s a device from 2020, but still&amp;hellip;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/fixed-hhkb-ble/</link>
       <pubDate>Wed, 12 Jul 2023 00:16:47 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/fixed-hhkb-ble/</guid>
       <description>I have finally fixed my HHKB BLE bluetooth connection issue tonight.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/learn-svelte-again/</link>
       <pubDate>Wed, 05 Jul 2023 03:03:23 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/learn-svelte-again/</guid>
       <description>I&amp;rsquo;ve (re)started to learn Svelte today. I had battled to choose which one to learn between Svelte and Vue for quite a long time. Since it&amp;rsquo;s very different from current generation of frontend frameworks like React, Angular, and I want to learn something new, I finally decided to go with Svelte.</description>
     </item>
-    
     <item>
       <title>A Few Notes on Upgrading to Remirror v2</title>
       <link>https://yeis.dev/posts/notes-upgrading-remirror-v2/</link>
       <pubDate>Mon, 03 Jul 2023 22:46:21 -0400</pubDate>
-      
       <guid>https://yeis.dev/posts/notes-upgrading-remirror-v2/</guid>
-      <description>Recently we&amp;rsquo;ve hit a few issues with Remirror v1, and found that the newer version of Remirror has already fixed some of them, we therefore decided to upgrade to v2.
-This post is to record a few notes I had during the upgrade process.
-Use yarn upgrade-interactive Our choice of package manager is yarn for the project. Instead of manually updating the version numbers in package.json, we used yarn upgrade-interactive command to do the job.</description>
+      <description>Recently we&amp;rsquo;ve hit a few issues with Remirror v1, and found that the newer version of Remirror has already fixed some of them, we therefore decided to upgrade to v2.&#xA;This post is to record a few notes I had during the upgrade process.&#xA;Use yarn upgrade-interactive Our choice of package manager is yarn for the project. Instead of manually updating the version numbers in package.json, we used yarn upgrade-interactive command to do the job.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/tax-done-2023/</link>
       <pubDate>Fri, 23 Jun 2023 10:34:05 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/tax-done-2023/</guid>
       <description>I have finally done with my company&amp;rsquo;s tax refund for 2022 last night. Such a relief!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/tax-season/</link>
       <pubDate>Thu, 22 Jun 2023 22:51:33 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/tax-season/</guid>
       <description>I&amp;rsquo;ve been doing my company&amp;rsquo;s tax for last a few days, it&amp;rsquo;s a very stressful process because there are way more transactions than previous years. I&amp;rsquo;ve made a promise to myself that I&amp;rsquo;ll defintely find an accountant to do the tax next year.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/learning-rust/</link>
       <pubDate>Tue, 07 Feb 2023 02:57:06 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/learning-rust/</guid>
       <description>Vite v4 is switched to swc which is implemneted in Rust. It&amp;rsquo;s the time to learning Rust in order to stay relevant in next a few years.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/m2-mbp/</link>
       <pubDate>Wed, 18 Jan 2023 22:59:38 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/m2-mbp/</guid>
       <description>I just placed the order of a new 14&amp;quot; MacBook Pro with M2 Max + 64GB memory + 2TB SSD. Can&amp;rsquo;t wait to see how good (or bad) it is compared to my Hackintosh.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/new-hackintosh/</link>
       <pubDate>Thu, 08 Dec 2022 13:09:00 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/new-hackintosh/</guid>
-      <description>My new Hackintosh (i7-13700KF + RX 6650 XT) is so fast; and, OpenCore is a pleasure to work with, much cleaner and understandable than Clover.
-Happy hacking :)</description>
+      <description>My new Hackintosh (i7-13700KF + RX 6650 XT) is so fast; and, OpenCore is a pleasure to work with, much cleaner and understandable than Clover.&#xA;Happy hacking :)</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/advil-shortage/</link>
       <pubDate>Wed, 16 Nov 2022 15:41:11 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/advil-shortage/</guid>
       <description>The kids/junior fever relielf medicine shortage in Canada is crazy. It&amp;rsquo;s not just Advil and Tylenol, but anything with &amp;ldquo;Cold/Ful&amp;rdquo; on the packaging is gone, the shelves are all cleared.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/into-video-audio/</link>
       <pubDate>Tue, 23 Aug 2022 02:41:21 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/into-video-audio/</guid>
       <description>This summer I&amp;rsquo;ve fallen in love with video and audio. I&amp;rsquo;ve been learning everything about filmmaking, and spent a lot of money to purchase gears, of course!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/microsoft-to-be-microsoft/</link>
       <pubDate>Tue, 21 Jun 2022 15:32:57 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/microsoft-to-be-microsoft/</guid>
       <description>GH Copilot turned to subscription and VSCode&amp;rsquo;s C# extension closed source. Microsoft starts to be Microsoft, again.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/covid-hit/</link>
       <pubDate>Thu, 10 Feb 2022 15:15:03 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/covid-hit/</guid>
       <description>The whole family was hit by COVID-19 last week. It was not terrible, we all had mild symptoms. And, we are recovered now! Woohoo!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/cf-email-forwarding/</link>
       <pubDate>Tue, 11 Jan 2022 14:08:30 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/cf-email-forwarding/</guid>
       <description>Woohoo! Cloudflare email forwarding is enabled for yeis.dev!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/marvel-champions-not-easy/</link>
       <pubDate>Tue, 09 Nov 2021 18:14:43 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/marvel-champions-not-easy/</guid>
       <description>I don&amp;rsquo;t know where I got the sense that a coop boardgame is easy, but I have played two games of Marvel Champions recently, and the villain has dominated me completely without giving me any hope of winning. This has totally changed my perception.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/copilot-jetbrains/</link>
       <pubDate>Thu, 28 Oct 2021 11:48:03 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/copilot-jetbrains/</guid>
       <description>JetBrains IDEs finally got GitHub Copilot support! I just tried it and it&amp;rsquo;s amazing! 🎉🎉🎉</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/onivim2-dev-stale/</link>
       <pubDate>Wed, 15 Sep 2021 09:44:06 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/onivim2-dev-stale/</guid>
       <description>I just learned that the development of Onivim 2 has gone stale. It&amp;rsquo;s very sad to see that happens.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/wingspan-100-points/</link>
       <pubDate>Sat, 31 Jul 2021 02:46:56 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/wingspan-100-points/</guid>
       <description>Got 100 points for the first time in Wingspan, 104 to be exact. That feels good!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/big-fin-gone/</link>
       <pubDate>Tue, 27 Jul 2021 01:23:44 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/big-fin-gone/</guid>
       <description>Big Fin is gone today. RIP.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/wingspan/</link>
       <pubDate>Sat, 24 Jul 2021 03:48:19 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/wingspan/</guid>
       <description>Finally, I&amp;rsquo;ve started to play Wingspan. It&amp;rsquo;s definitely a beautiful game, and I&amp;rsquo;m going to get a physical copy later this year.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/quote-great-minds/</link>
       <pubDate>Fri, 23 Jul 2021 15:54:40 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/quote-great-minds/</guid>
       <description>Great minds discuss ideas; average minds discuss events; small minds dicuss people. &amp;ndash; Eleanor Roosevelt</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/new-space-jam/</link>
       <pubDate>Thu, 22 Jul 2021 02:41:22 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/new-space-jam/</guid>
       <description>Skip the new Space Jam movie unless you&amp;rsquo;re a LeBron fan.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/bucks-champion/</link>
       <pubDate>Wed, 21 Jul 2021 01:17:24 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/bucks-champion/</guid>
       <description>Bucks won NBA Finals 2021. Giannis had a monstrous performance. Respect. Well deserved champion.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/polywork/</link>
       <pubDate>Mon, 19 Jul 2021 18:28:26 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/polywork/</guid>
       <description>Got into Polywork! Say hi to me there :)</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/onward-movie/</link>
       <pubDate>Mon, 19 Jul 2021 16:37:03 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/onward-movie/</guid>
       <description>Watched Onward last night, it&amp;rsquo;s another good movie from Pixar!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/got-github-copilot/</link>
       <pubDate>Tue, 13 Jul 2021 18:21:31 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/got-github-copilot/</guid>
       <description>I just got the invite to GitHub Copilot, but the issue preventing me from using vscode as my main editor is still there not fixed after a few years&amp;hellip;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/dyson-v10-moisture-sensor/</link>
       <pubDate>Mon, 12 Jul 2021 14:05:54 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/dyson-v10-moisture-sensor/</guid>
       <description>There is a moisture sensor inside Dynson v10 (other models probably have it as well) to protect the motor from minor water damage. If you accidentally put a wet filter on and the vacuum refuses to work afterwards, don&amp;rsquo;t panic and don&amp;rsquo;t throw it away just yet, leave it and let it dry for 2 - 3 days, there is a good chance it will come back to life again.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/bundlephobia/</link>
       <pubDate>Thu, 08 Jul 2021 10:29:57 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/bundlephobia/</guid>
       <description>Just discovered a very useful tool bundlephobia. It&amp;rsquo;s a package analyzer to show the composition of the package so you know clearly what you&amp;rsquo;re actually paying for when bringing in a dependency.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/root-boardgame/</link>
       <pubDate>Sun, 04 Jul 2021 04:00:38 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/root-boardgame/</guid>
       <description>Really into Root now. Still learning how to play, but I&amp;rsquo;ve already fallen in love, can&amp;rsquo;t stop thinking about it!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/prosemirror/</link>
       <pubDate>Fri, 02 Jul 2021 17:21:38 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/prosemirror/</guid>
       <description>I&amp;rsquo;ve been working with ProseMirror for the last few days, it&amp;rsquo;s a nicely designed and well built toolkit to build editor on web. I am genuinely excited and want to learn more about it. I haven&amp;rsquo;t had such feeling for a long time.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/relay-like-flux/</link>
       <pubDate>Mon, 14 Jun 2021 09:14:15 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/relay-like-flux/</guid>
       <description>I feel Relay at this moment is like Flux in the early days of React. It&amp;rsquo;s powerful and shows the abilities of GraphQL; but, it&amp;rsquo;s not very easy to understand and use, the learning curve is steep. You have to go through quite a few hurdles before you can enjoy the benefits that Relay brings to the table.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/spoiled-by-ide/</link>
       <pubDate>Tue, 18 May 2021 10:34:26 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/spoiled-by-ide/</guid>
-      <description>I&amp;rsquo;ve switched to JetBrains IDEs two years ago as a life-long vimer and thought I would never forget how to develop in vanilla vim. However, yesterday when I fired up the unconfigured vim to write a small dart program, I couldn&amp;rsquo;t. I felt it was so hard to type without auto-completion and I wanted to use an IDE or vscode.
-That scared me.
-I need to jump out my comfortable zone and practice my programming skill more without the help from the tools.</description>
+      <description>I&amp;rsquo;ve switched to JetBrains IDEs two years ago as a life-long vimer and thought I would never forget how to develop in vanilla vim. However, yesterday when I fired up the unconfigured vim to write a small dart program, I couldn&amp;rsquo;t. I felt it was so hard to type without auto-completion and I wanted to use an IDE or vscode.&#xA;That scared me.&#xA;I need to jump out my comfortable zone and practice my programming skill more without the help from the tools.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/change-micro-switch/</link>
       <pubDate>Sat, 24 Apr 2021 03:48:54 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/change-micro-switch/</guid>
       <description>My Logitech G903 has had the double-click issue for awhile, today I finally pulled out my solder iron and changed the micro switch!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/relay-aha-moment/</link>
       <pubDate>Fri, 16 Apr 2021 15:21:01 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/relay-aha-moment/</guid>
       <description>Got my first &amp;ldquo;Aha!&amp;rdquo; moment with Relay after staring at it for a few weeks.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/tokyo60/</link>
       <pubDate>Tue, 06 Apr 2021 10:26:44 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/tokyo60/</guid>
       <description>I&amp;rsquo;ve started to use tokyo60, need some time to get used to it after using Preonic for awhile now.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/g903-double-click/</link>
       <pubDate>Mon, 05 Apr 2021 12:42:14 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/g903-double-click/</guid>
       <description>The double clicking issue on my G903 has became unbearable, it&amp;rsquo;s time to open it up, pull my soldering iron out, and change the switches!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/star-wars-films/</link>
       <pubDate>Thu, 25 Feb 2021 21:46:52 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/star-wars-films/</guid>
       <description>I&amp;rsquo;ve started to watch Star Wars films from the beginning. I initially was afraid that it would be hard to bear because older movies are very slow, but it turned out to be the other way around. I was hooked on the story after the first 15 minutes and couldn&amp;rsquo;t help but finished the whole Episode IV in one run. It&amp;rsquo;s not like other recent films which I need to break one up to smaller pieces to consume.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/esbuild-so-good/</link>
       <pubDate>Thu, 11 Feb 2021 09:58:14 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/esbuild-so-good/</guid>
       <description>Recently tried esbuild, my experience with it is very positive, it&amp;rsquo;s so much faster and easier to use than webpack.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/m1-macbook-pro/</link>
       <pubDate>Tue, 02 Feb 2021 14:05:23 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/m1-macbook-pro/</guid>
       <description>Started the brand new M1 yesterday morning at 85% battery, went through all the downloads and installations, now it still has 40%. Very impressive!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/missed-goal/</link>
       <pubDate>Sun, 13 Dec 2020 01:59:51 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/missed-goal/</guid>
       <description>I missed today&amp;rsquo;s Move goal. It was just a small gap to close, 20 minutes walk would make it, but I procrastinated until it was too late&amp;hellip; Words to myself: this situation has happened too many times, the lesson should have been learned already, don&amp;rsquo;t let it happen again.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/coffee-dripper-comparison/</link>
       <pubDate>Wed, 09 Dec 2020 01:34:29 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/coffee-dripper-comparison/</guid>
       <description>I just did a coffee dripper comparison between the V60 and the Origami, and consumed about 500ml coffee in the middle of the night. Hope I can still get a good sleep tonight.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/kinu-m47-classic/</link>
       <pubDate>Tue, 08 Dec 2020 01:07:11 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/kinu-m47-classic/</guid>
       <description>OK, I got the Kinu M47 Classic. A lot sooner than I originally planned, and it costed me a fortune, but&amp;hellip; OMG! Day and night isn&amp;rsquo;t enough to describe the difference between the Kinu and my $20 grinder; it&amp;rsquo;s a different world.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/flutter-dart/</link>
       <pubDate>Tue, 01 Dec 2020 11:59:02 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/flutter-dart/</guid>
       <description>Despite how much I like dart, I think it&amp;rsquo;s a mistake to build Flutter on dart. Just imagine Flutter was using JavaScript at the beginning, it would be a lot more popular by now.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/remarkable2/</link>
       <pubDate>Tue, 01 Dec 2020 11:04:41 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/remarkable2/</guid>
       <description>Got my reMarkable 2 yesterday! It&amp;rsquo;s my 2nd e-ink display device since the Kindle 2nd-Gen. Writing on it feels great and reading PDFs on the big screen is so much better than on smaller devices.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/too-much-coffee-too-much-money/</link>
       <pubDate>Mon, 30 Nov 2020 22:37:40 -0500</pubDate>
-      
       <guid>https://yeis.dev/messages/too-much-coffee-too-much-money/</guid>
       <description>After gettting the Hario V60, I have consumed too much coffee and spent too much money on grinders.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/pour-over/</link>
       <pubDate>Sun, 25 Oct 2020 02:20:08 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/pour-over/</guid>
       <description>Learning pour over now!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/brewing-coffee-hobby/</link>
       <pubDate>Thu, 22 Oct 2020 02:17:27 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/brewing-coffee-hobby/</guid>
       <description>I have researched coffee brewing for 2 nights and purchased the Hario V60 kit. Yep, I&amp;rsquo;m starting a new hobby.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/shame-finding-job/</link>
       <pubDate>Tue, 20 Oct 2020 02:44:57 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/shame-finding-job/</guid>
       <description>Maybe it&amp;rsquo;s just me but I feel it&amp;rsquo;s a shame that a man needs to find a new job working for other people in order to have a better income.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/switch-ortholinear-staggered/</link>
       <pubDate>Tue, 20 Oct 2020 02:21:48 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/switch-ortholinear-staggered/</guid>
       <description>Now I&amp;rsquo;m used to the ortholinear layout, typing on the staggered layout has became a problem for me. It&amp;rsquo;s time to practice the &amp;ldquo;switching&amp;rdquo;.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/github-codespaces/</link>
       <pubDate>Wed, 14 Oct 2020 14:12:25 +0000</pubDate>
-      
       <guid>https://yeis.dev/messages/github-codespaces/</guid>
       <description>This message is composed in the GitHub Codespaces!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/fully-on-preonic/</link>
       <pubDate>Wed, 23 Sep 2020 23:06:19 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/fully-on-preonic/</guid>
       <description>After a week with the Preonic, I&amp;rsquo;m fully adjusted to the ortholinear keyboard. Absolutely love it!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/preonic-keyboard/</link>
       <pubDate>Tue, 15 Sep 2020 02:14:48 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/preonic-keyboard/</guid>
       <description>Writing this message on the Preonic, I have to admit that learning a new keyboard layout is hard and no fun.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/disk-died-lost-weekend/</link>
       <pubDate>Tue, 08 Sep 2020 15:22:06 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/disk-died-lost-weekend/</guid>
       <description>One of the disks died last Friday, and my whole Labor Day long weekend was toasted.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/raptors-og-game-winner/</link>
       <pubDate>Fri, 04 Sep 2020 02:17:54 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/raptors-og-game-winner/</guid>
       <description>OMG! OG Anunoby, what a shot! Lowry, what a pass!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/harry-potter-movies/</link>
       <pubDate>Mon, 31 Aug 2020 18:04:58 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/harry-potter-movies/</guid>
       <description>I&amp;rsquo;m 100% hooked with Harry Potter movies. I don&amp;rsquo;t why I wasn&amp;rsquo;t interested in it when it just came out.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/good-keycaps/</link>
       <pubDate>Mon, 24 Aug 2020 16:44:35 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/good-keycaps/</guid>
       <description>A good set of keycaps can really make the typing experience so much better. No more $20 set for me.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/stock-technical-analysis/</link>
       <pubDate>Sun, 23 Aug 2020 22:56:53 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/stock-technical-analysis/</guid>
       <description>Start to study Technical Analysis of Stock Trends. Wish me luck!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/5am-club/</link>
       <pubDate>Thu, 20 Aug 2020 08:20:46 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/5am-club/</guid>
       <description>I have wanted to join 5AM club for a long time. I tried it this morning. I am very tired and feeling terrible now.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/nba-restart/</link>
       <pubDate>Fri, 31 Jul 2020 14:20:49 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/nba-restart/</guid>
       <description>NBA restarted! It&amp;rsquo;s good to have the games back!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/crysis-remastered-switch/</link>
       <pubDate>Wed, 29 Jul 2020 03:34:22 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/crysis-remastered-switch/</guid>
       <description>Purchased Crysis Remastered on my Switch! Let&amp;rsquo;s see what it&amp;rsquo;s all about.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/svelte-chat-app/</link>
       <pubDate>Sat, 04 Jul 2020 14:14:04 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/svelte-chat-app/</guid>
       <description>I&amp;rsquo;ve decided to rebuild Gemsby&amp;rsquo;s chat tool with Svelte. Let&amp;rsquo;s see how it goes.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/space-force/</link>
       <pubDate>Mon, 29 Jun 2020 11:20:09 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/space-force/</guid>
       <description>The Space Force is a pretty good show to watch during this stressful time.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/apple-silicon/</link>
       <pubDate>Mon, 22 Jun 2020 14:28:47 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/apple-silicon/</guid>
-      <description>Apple Silicon: Hello World!
-Intel: 😭</description>
+      <description>Apple Silicon: Hello World!&#xA;Intel: 😭</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/wireguard-pi4/</link>
       <pubDate>Sat, 13 Jun 2020 04:07:03 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/wireguard-pi4/</guid>
       <description>Installed WirdGuard on PI4. The configuration is so simple compare to other VPN solutions, and the iOS app is very nice. I absolutely love it!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/kindle-2nd-gen/</link>
       <pubDate>Mon, 08 Jun 2020 14:17:56 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/kindle-2nd-gen/</guid>
       <description>Pulled out my Kindle 2nd Gen over the weekend, charged it, then started reading on it. I&amp;rsquo;m happily surprised that despite of its slow speed, the reading experience is so great, way better than the other phones and tablet I own. Hopefully this time I&amp;rsquo;ll put it into a good use, instead of just sitting there collecting dust.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/westworld-this-world/</link>
       <pubDate>Wed, 03 Jun 2020 03:07:56 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/westworld-this-world/</guid>
       <description>Westworld s3 is good, especially when considering what is happening in the world right now.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/learn-svelte/</link>
       <pubDate>Mon, 01 Jun 2020 11:40:16 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/learn-svelte/</guid>
       <description>I&amp;rsquo;m going to learn svelte this week.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/tailwind-job/</link>
       <pubDate>Thu, 28 May 2020 02:18:04 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/tailwind-job/</guid>
       <description>Applied the position of the Tailwind UI team. Fingers crossed🤞</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/use-hugo-as-notes-app/</link>
       <pubDate>Thu, 21 May 2020 10:20:18 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/use-hugo-as-notes-app/</guid>
       <description>It seems there is a rising demand of a notes taking app to write in markdown and save the notes as markdown text files. That sounds just like what hugo does. I&amp;rsquo;ll try to use hugo for that purpose, and see how it goes.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/wrap-to-column-plugin/</link>
       <pubDate>Wed, 20 May 2020 13:42:21 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/wrap-to-column-plugin/</guid>
       <description>Wrap to Column is the plugin of JetBrains IDEs you&amp;rsquo;ll need if you need to wrap the comments in a different width than the code.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/trying-deno/</link>
       <pubDate>Wed, 20 May 2020 02:21:28 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/trying-deno/</guid>
       <description>I&amp;rsquo;ve played with deno for awhile today, it seems to be very promising.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/tax-return-done-2020/</link>
       <pubDate>Mon, 18 May 2020 23:34:37 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/tax-return-done-2020/</guid>
       <description>My tax return is done early this year! Woohoo!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/hell-of-week-gout-broken-arm/</link>
       <pubDate>Mon, 18 May 2020 03:25:10 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/hell-of-week-gout-broken-arm/</guid>
       <description>Fever, broken foot, gout, broken arm. That&amp;rsquo;s a hell of a week!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/the-last-dance/</link>
       <pubDate>Tue, 12 May 2020 02:17:00 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/the-last-dance/</guid>
       <description>I couldn&amp;rsquo;t hold myself off any longer, I&amp;rsquo;ve started to watch The Last Dance!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/second-guessing-modern-web/</link>
       <pubDate>Mon, 11 May 2020 02:52:41 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/second-guessing-modern-web/</guid>
       <description>Just read Second-guessing the modern web. It&amp;rsquo;s a well written article on the current trend of building static content site with React SPA. I agree with it, that&amp;rsquo;s why this very site is still built with Hugo despite my familiarity with React and the recent hype of Gatsby.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/new-design/</link>
       <pubDate>Sun, 10 May 2020 00:51:22 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/new-design/</guid>
       <description>New design is up! WOOHOO!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/matrix-3/</link>
       <pubDate>Sat, 09 May 2020 03:00:13 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/matrix-3/</guid>
       <description>I didn&amp;rsquo;t have too much memory of The Matrix Revolutions, and I didn&amp;rsquo;t expect it to be very good before re-watching it. But, man, I&amp;rsquo;ve enjoyed it a lot, it IS good!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://yeis.dev/messages/rewatch-matrix/</link>
       <pubDate>Sat, 09 May 2020 02:31:44 -0400</pubDate>
-      
       <guid>https://yeis.dev/messages/rewatch-matrix/</guid>
       <description>Matrix movie series are so fun to (re)watch!</description>
     </item>
-    
     <item>
       <title>Start Learning Emacs</title>
       <link>https://yeis.dev/posts/start-learning-emacs/</link>
       <pubDate>Fri, 08 Mar 2019 14:04:44 -0500</pubDate>
-      
       <guid>https://yeis.dev/posts/start-learning-emacs/</guid>
-      <description>March 7th, 2019.
-I need to mark this date because on that day I decided to seriously learn Emacs and switch to it as my primary text editor after my 12 years Vim journey.
-Why? Because currently I am working on the new design of Gemsby and I have chosen to use TypeScript for the work. Unfortunately, TypeScript support in Vim is very weak at this moment, I need to spend a lot of time to fight my text editor which I would rather not to do.</description>
+      <description>March 7th, 2019.&#xA;I need to mark this date because on that day I decided to seriously learn Emacs and switch to it as my primary text editor after my 12 years Vim journey.&#xA;Why? Because currently I am working on the new design of Gemsby and I have chosen to use TypeScript for the work. Unfortunately, TypeScript support in Vim is very weak at this moment, I need to spend a lot of time to fight my text editor which I would rather not to do.</description>
     </item>
-    
     <item>
       <title>New Dev Domains</title>
       <link>https://yeis.dev/posts/new-dev-domains/</link>
       <pubDate>Mon, 04 Mar 2019 00:14:45 -0500</pubDate>
-      
       <guid>https://yeis.dev/posts/new-dev-domains/</guid>
-      <description>Google opened its .dev domains for anyone to purchase without the early access fee a few days ago. Every developer should grab a .dev domain to showcase their great creations and works in my opinion, so I have grabbed TWO for myself 😁.
-I will need some time to figure out a better use of those domains, but for the time being, my shiny new domains, yeliu.dev and liuye.dev, will be redirect to here.</description>
+      <description>Google opened its .dev domains for anyone to purchase without the early access fee a few days ago. Every developer should grab a .dev domain to showcase their great creations and works in my opinion, so I have grabbed TWO for myself 😁.&#xA;I will need some time to figure out a better use of those domains, but for the time being, my shiny new domains, yeliu.dev and liuye.dev, will be redirect to here.</description>
     </item>
-    
     <item>
       <title>Hello World</title>
       <link>https://yeis.dev/posts/hello-world/</link>
       <pubDate>Fri, 24 Jul 2015 00:51:28 -0400</pubDate>
-      
       <guid>https://yeis.dev/posts/hello-world/</guid>
       <description>This is where it all begins&amp;hellip;</description>
     </item>
-    
     <item>
       <title>about</title>
       <link>https://yeis.dev/about/</link>
       <pubDate>Mon, 06 Jul 2015 23:42:24 -0400</pubDate>
-      
       <guid>https://yeis.dev/about/</guid>
-      <description>Hi there, I am Ye Liu. I am a software developer, who
-cannot live without Mac, Linux, and Vim, speaks JavaScript, Dart, Elm, Go, Elixir, Python and C, is passionate about web, mobile and cross-platform development, is crazy about things that are invisible but powerful. I can also be found on GitHub, Polywork, StackOverflow and Twitter.</description>
+      <description>Hi there, I am Ye Liu. I am a software developer, who&#xA;cannot live without Mac, Linux, and Vim, speaks JavaScript, Dart, Elm, Go, Elixir, Python and C, is passionate about web, mobile and cross-platform development, is crazy about things that are invisible but powerful. I can also be found on GitHub, Polywork, StackOverflow and Twitter.</description>
     </item>
-    
   </channel>
 </rss>

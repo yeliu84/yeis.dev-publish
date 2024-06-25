@@ -4,8 +4,9 @@
     <title>Categories on yeis.dev</title>
     <link>https://yeis.dev/categories/</link>
     <description>Recent content in Categories on yeis.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>2015-2023 Ye Liu</copyright><atom:link href="https://yeis.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2015-2023 Ye Liu</copyright>
+    <atom:link href="https://yeis.dev/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
