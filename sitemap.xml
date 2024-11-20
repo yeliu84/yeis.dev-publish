@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yeis.dev/messages/tailscale/</loc>
+    <lastmod>2024-11-20T07:08:13-05:00</lastmod>
+  </url><url>
+    <loc>https://yeis.dev/messages/</loc>
+    <lastmod>2024-11-20T07:08:13-05:00</lastmod>
+  </url><url>
+    <loc>https://yeis.dev/</loc>
+    <lastmod>2024-11-20T07:08:13-05:00</lastmod>
+  </url><url>
     <loc>https://yeis.dev/posts/goodbye-hackintosh/</loc>
     <lastmod>2024-08-20T18:44:56-04:00</lastmod>
   </url><url>
@@ -14,13 +23,7 @@
     <loc>https://yeis.dev/tags/</loc>
     <lastmod>2024-08-20T18:44:56-04:00</lastmod>
   </url><url>
-    <loc>https://yeis.dev/</loc>
-    <lastmod>2024-08-20T18:44:56-04:00</lastmod>
-  </url><url>
     <loc>https://yeis.dev/messages/steam-deck/</loc>
-    <lastmod>2024-08-15T16:21:11-04:00</lastmod>
-  </url><url>
-    <loc>https://yeis.dev/messages/</loc>
     <lastmod>2024-08-15T16:21:11-04:00</lastmod>
   </url><url>
     <loc>https://yeis.dev/messages/paris-2024-opening-ceremony/</loc>

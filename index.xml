@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2015-2023 Ye Liu</copyright>
-    <lastBuildDate>Tue, 20 Aug 2024 18:44:56 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 07:08:13 -0500</lastBuildDate>
     <atom:link href="https://yeis.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/tailscale/</link>
+      <pubDate>Wed, 20 Nov 2024 07:08:13 -0500</pubDate>
+      <guid>https://yeis.dev/messages/tailscale/</guid>
+      <description>I heard about Tailscale long time ago and I finally got to play with it last night. I can&amp;rsquo;t believe how easy it is to set it up, it&amp;rsquo;s the best experience I&amp;rsquo;ve ever had while trying to set up a VPN. It&amp;rsquo;s just amazing!</description>
+    </item>
     <item>
       <title>Goodbye, Hackintosh!</title>
       <link>https://yeis.dev/posts/goodbye-hackintosh/</link>
