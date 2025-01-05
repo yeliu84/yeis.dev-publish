@@ -14,7 +14,7 @@
       <link>https://yeis.dev/posts/notes-upgrading-remirror-v2/</link>
       <pubDate>Mon, 03 Jul 2023 22:46:21 -0400</pubDate>
       <guid>https://yeis.dev/posts/notes-upgrading-remirror-v2/</guid>
-      <description>Recently we&amp;rsquo;ve hit a few issues with Remirror v1, and found that the newer version of Remirror has already fixed some of them, we therefore decided to upgrade to v2.&#xA;This post is to record a few notes I had during the upgrade process.&#xA;Use yarn upgrade-interactive Our choice of package manager is yarn for the project. Instead of manually updating the version numbers in package.json, we used yarn upgrade-interactive command to do the job.</description>
+      <description>&lt;p&gt;Recently we&amp;rsquo;ve hit a few issues with Remirror v1, and found that the newer version of Remirror has already fixed some of&#xA;them, we therefore decided to upgrade to v2.&lt;/p&gt;&#xA;&lt;p&gt;This post is to record a few notes I had during the upgrade process.&lt;/p&gt;&#xA;&lt;h2 id=&#34;use-yarn-upgrade-interactive&#34;&gt;Use &lt;code&gt;yarn upgrade-interactive&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Our choice of package manager is &lt;code&gt;yarn&lt;/code&gt; for the project. Instead of manually updating the version numbers&#xA;in &lt;code&gt;package.json&lt;/code&gt;, we used &lt;code&gt;yarn upgrade-interactive&lt;/code&gt; command to do the job.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

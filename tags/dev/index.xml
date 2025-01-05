@@ -14,21 +14,21 @@
       <link>https://yeis.dev/posts/notes-upgrading-remirror-v2/</link>
       <pubDate>Mon, 03 Jul 2023 22:46:21 -0400</pubDate>
       <guid>https://yeis.dev/posts/notes-upgrading-remirror-v2/</guid>
-      <description>Recently we&amp;rsquo;ve hit a few issues with Remirror v1, and found that the newer version of Remirror has already fixed some of them, we therefore decided to upgrade to v2.&#xA;This post is to record a few notes I had during the upgrade process.&#xA;Use yarn upgrade-interactive Our choice of package manager is yarn for the project. Instead of manually updating the version numbers in package.json, we used yarn upgrade-interactive command to do the job.</description>
+      <description>&lt;p&gt;Recently we&amp;rsquo;ve hit a few issues with Remirror v1, and found that the newer version of Remirror has already fixed some of&#xA;them, we therefore decided to upgrade to v2.&lt;/p&gt;&#xA;&lt;p&gt;This post is to record a few notes I had during the upgrade process.&lt;/p&gt;&#xA;&lt;h2 id=&#34;use-yarn-upgrade-interactive&#34;&gt;Use &lt;code&gt;yarn upgrade-interactive&lt;/code&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Our choice of package manager is &lt;code&gt;yarn&lt;/code&gt; for the project. Instead of manually updating the version numbers&#xA;in &lt;code&gt;package.json&lt;/code&gt;, we used &lt;code&gt;yarn upgrade-interactive&lt;/code&gt; command to do the job.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Start Learning Emacs</title>
       <link>https://yeis.dev/posts/start-learning-emacs/</link>
       <pubDate>Fri, 08 Mar 2019 14:04:44 -0500</pubDate>
       <guid>https://yeis.dev/posts/start-learning-emacs/</guid>
-      <description>March 7th, 2019.&#xA;I need to mark this date because on that day I decided to seriously learn Emacs and switch to it as my primary text editor after my 12 years Vim journey.&#xA;Why? Because currently I am working on the new design of Gemsby and I have chosen to use TypeScript for the work. Unfortunately, TypeScript support in Vim is very weak at this moment, I need to spend a lot of time to fight my text editor which I would rather not to do.</description>
+      <description>&lt;p&gt;&lt;em&gt;March 7th, 2019.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I need to mark this date because on that day I decided to &lt;strong&gt;seriously&lt;/strong&gt; learn Emacs and switch to it as my primary text editor after my 12 years Vim journey.&lt;/p&gt;&#xA;&lt;p&gt;Why? Because currently I am working on the new design of &lt;a href=&#34;https://gemsby.com&#34;&gt;Gemsby&lt;/a&gt; and I have chosen to use TypeScript for the work. Unfortunately, TypeScript support in Vim is very weak at this moment, I need to spend a lot of time to fight my text editor which I would rather not to do. And the plugins&amp;rsquo; development seems to be moving very slowly. This is critial becase TypeScript the language itself is moving very quickly, if the plugins can&amp;rsquo;t keep up with the pace, developers will abandon the editor, then I will have no choice but switch to a different text editor&amp;hellip; 😢&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Dev Domains</title>
       <link>https://yeis.dev/posts/new-dev-domains/</link>
       <pubDate>Mon, 04 Mar 2019 00:14:45 -0500</pubDate>
       <guid>https://yeis.dev/posts/new-dev-domains/</guid>
-      <description>Google opened its .dev domains for anyone to purchase without the early access fee a few days ago. Every developer should grab a .dev domain to showcase their great creations and works in my opinion, so I have grabbed TWO for myself 😁.&#xA;I will need some time to figure out a better use of those domains, but for the time being, my shiny new domains, yeliu.dev and liuye.dev, will be redirect to here.</description>
+      <description>&lt;p&gt;Google opened its &lt;code&gt;.dev&lt;/code&gt; domains for anyone to purchase without the early access&#xA;fee a few days ago. Every developer should grab a &lt;code&gt;.dev&lt;/code&gt; domain to showcase&#xA;their great creations and works in my opinion, so I have grabbed &lt;strong&gt;TWO&lt;/strong&gt; for&#xA;myself 😁.&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;I will need some time to figure out a better use of those domains, but for the&#xA;time being, my shiny new domains, &lt;a href=&#34;&#34;&gt;yeliu.dev&lt;/a&gt; and&#xA;&lt;a href=&#34;&#34;&gt;liuye.dev&lt;/a&gt;, will be redirect to &lt;a href=&#34;https://yeis.dev/&#34;&gt;here&lt;/a&gt;.&lt;/del&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

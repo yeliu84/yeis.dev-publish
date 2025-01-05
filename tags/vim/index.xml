@@ -14,7 +14,7 @@
       <link>https://yeis.dev/posts/start-learning-emacs/</link>
       <pubDate>Fri, 08 Mar 2019 14:04:44 -0500</pubDate>
       <guid>https://yeis.dev/posts/start-learning-emacs/</guid>
-      <description>March 7th, 2019.&#xA;I need to mark this date because on that day I decided to seriously learn Emacs and switch to it as my primary text editor after my 12 years Vim journey.&#xA;Why? Because currently I am working on the new design of Gemsby and I have chosen to use TypeScript for the work. Unfortunately, TypeScript support in Vim is very weak at this moment, I need to spend a lot of time to fight my text editor which I would rather not to do.</description>
+      <description>&lt;p&gt;&lt;em&gt;March 7th, 2019.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I need to mark this date because on that day I decided to &lt;strong&gt;seriously&lt;/strong&gt; learn Emacs and switch to it as my primary text editor after my 12 years Vim journey.&lt;/p&gt;&#xA;&lt;p&gt;Why? Because currently I am working on the new design of &lt;a href=&#34;https://gemsby.com&#34;&gt;Gemsby&lt;/a&gt; and I have chosen to use TypeScript for the work. Unfortunately, TypeScript support in Vim is very weak at this moment, I need to spend a lot of time to fight my text editor which I would rather not to do. And the plugins&amp;rsquo; development seems to be moving very slowly. This is critial becase TypeScript the language itself is moving very quickly, if the plugins can&amp;rsquo;t keep up with the pace, developers will abandon the editor, then I will have no choice but switch to a different text editor&amp;hellip; 😢&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
