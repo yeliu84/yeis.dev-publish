@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2015-2025 Ye Liu</copyright>
-    <lastBuildDate>Tue, 10 Jun 2025 01:06:56 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 22:34:48 -0400</lastBuildDate>
     <atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/new-journey-seeq/</link>
+      <pubDate>Fri, 20 Jun 2025 22:34:48 -0400</pubDate>
+      <guid>https://yeis.dev/messages/new-journey-seeq/</guid>
+      <description>&lt;p&gt;A new journey will begin soon. I&amp;rsquo;ll Seeq new challenges and learn new things along the way.&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://yeis.dev/messages/rust-in-motion/</link>
