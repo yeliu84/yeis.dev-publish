@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yeis.dev/messages/crafting-interpreters-parser/</loc>
+    <lastmod>2025-07-02T15:03:38-04:00</lastmod>
+  </url><url>
+    <loc>https://yeis.dev/messages/</loc>
+    <lastmod>2025-07-02T15:03:38-04:00</lastmod>
+  </url><url>
+    <loc>https://yeis.dev/</loc>
+    <lastmod>2025-07-02T15:03:38-04:00</lastmod>
+  </url><url>
     <loc>https://yeis.dev/tags/dev/</loc>
     <lastmod>2025-07-01T13:59:51-04:00</lastmod>
   </url><url>
@@ -17,13 +26,7 @@
     <loc>https://yeis.dev/tags/vue/</loc>
     <lastmod>2025-07-01T13:59:51-04:00</lastmod>
   </url><url>
-    <loc>https://yeis.dev/</loc>
-    <lastmod>2025-07-01T13:59:51-04:00</lastmod>
-  </url><url>
     <loc>https://yeis.dev/messages/dark-souls/</loc>
-    <lastmod>2025-06-26T18:00:11-04:00</lastmod>
-  </url><url>
-    <loc>https://yeis.dev/messages/</loc>
     <lastmod>2025-06-26T18:00:11-04:00</lastmod>
   </url><url>
     <loc>https://yeis.dev/messages/aficionado/</loc>

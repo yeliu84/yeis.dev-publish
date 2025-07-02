@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2015-2025 Ye Liu</copyright>
-    <lastBuildDate>Tue, 01 Jul 2025 13:59:51 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 15:03:38 -0400</lastBuildDate>
     <atom:link href="https://yeis.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/crafting-interpreters-parser/</link>
+      <pubDate>Wed, 02 Jul 2025 15:03:38 -0400</pubDate>
+      <guid>https://yeis.dev/messages/crafting-interpreters-parser/</guid>
+      <description>&lt;p&gt;Milestone reached! I made to the parser chapter of &lt;a href=&#34;https://craftinginterpreters.com/&#34;&gt;Crafting Interpreters&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Learning Vue</title>
       <link>https://yeis.dev/posts/learning-vue/</link>
