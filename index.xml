@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2015-2025 Ye Liu</copyright>
-    <lastBuildDate>Thu, 10 Jul 2025 02:18:39 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 21:58:19 -0400</lastBuildDate>
     <atom:link href="https://yeis.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/play-with-claude-code/</link>
+      <pubDate>Sun, 27 Jul 2025 21:58:19 -0400</pubDate>
+      <guid>https://yeis.dev/messages/play-with-claude-code/</guid>
+      <description>&lt;p&gt;Having fun playing with Claude Code now. This very message is written with Claude Code.&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://yeis.dev/messages/citizenship-application/</link>
