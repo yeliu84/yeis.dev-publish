@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2015-2025 Ye Liu</copyright>
-    <lastBuildDate>Wed, 06 Aug 2025 17:18:57 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 23:23:36 -0400</lastBuildDate>
     <atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/zed-editor/</link>
+      <pubDate>Fri, 15 Aug 2025 23:23:36 -0400</pubDate>
+      <guid>https://yeis.dev/messages/zed-editor/</guid>
+      <description>&lt;p&gt;Trying zed editor. It has been good for TS and React this whole week, but had issues with Java and Kotlin. I&amp;rsquo;ll stick with it a few more weeks to see if I can fully switch.&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://yeis.dev/messages/back-to-chrome/</link>
