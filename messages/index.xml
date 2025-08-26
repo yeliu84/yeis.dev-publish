@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2015-2025 Ye Liu</copyright>
-    <lastBuildDate>Fri, 15 Aug 2025 23:23:36 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 01:12:43 -0400</lastBuildDate>
     <atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/claude-code-for-work/</link>
+      <pubDate>Tue, 26 Aug 2025 01:12:43 -0400</pubDate>
+      <guid>https://yeis.dev/messages/claude-code-for-work/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve used Claude Code to carry out my work whole day today. The result is very impressive!&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://yeis.dev/messages/zed-editor/</link>
