@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2015-2025 Ye Liu</copyright>
-    <lastBuildDate>Tue, 26 Aug 2025 01:12:43 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 01:14:16 -0400</lastBuildDate>
     <atom:link href="https://yeis.dev/messages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yeis.dev/messages/3-months-seeq/</link>
+      <pubDate>Fri, 24 Oct 2025 01:14:16 -0400</pubDate>
+      <guid>https://yeis.dev/messages/3-months-seeq/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been working in Seeq for 3 months now, the journey has been pretty smooth so far.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been learning a lot of new stuff, and I have jumped into backend with Kotlin/Java very succesfully. That&amp;rsquo;s what I hadn&amp;rsquo;t done when working in startups, where there should have more opportunities for me to do so, I therefore feel it&amp;rsquo;s quite ironic.&lt;/p&gt;&#xA;&lt;p&gt;I would say I&amp;rsquo;ve done a good job in these 3 months, and I&amp;rsquo;ll continue to level myself up and do better job.&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://yeis.dev/messages/claude-code-for-work/</link>
